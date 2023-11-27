@@ -35,5 +35,8 @@ public class HomeController {
 		
 		return "home";
 	}
+	public void HCYCombined() {
+		String str = "되었는가";
+	}
 	
 }
