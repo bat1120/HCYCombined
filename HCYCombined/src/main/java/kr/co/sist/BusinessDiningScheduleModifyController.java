@@ -1,5 +1,8 @@
 package kr.co.sist;
 
-public class BusinessDiningScheduleModifyController {
+import org.springframework.stereotype.Controller;
 
+@Controller
+public class BusinessDiningScheduleModifyController {
+//너무긴데 클래스명
 }
