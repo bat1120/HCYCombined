@@ -1,4 +1,4 @@
-package kr.co.sist.user.myquestion;
+package kr.co.sist.user.mypage.myquestion;
 
 import org.springframework.stereotype.Controller;
 

@@ -1,4 +1,4 @@
-package kr.co.sist.user.myhotelreservation;
+package kr.co.sist.user.mypage.myhotelreservation;
 
 import org.springframework.stereotype.Controller;
 

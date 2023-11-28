@@ -1,4 +1,4 @@
-package kr.co.sist.user.mydiningreview;
+package kr.co.sist.user.mypage.mydiningreview;
 
 import org.springframework.stereotype.Controller;
 
