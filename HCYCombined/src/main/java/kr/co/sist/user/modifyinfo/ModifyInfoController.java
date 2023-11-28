@@ -1,4 +1,4 @@
-package kr.co.sist;
+package kr.co.sist.user.modifyinfo;
 
 import org.springframework.stereotype.Controller;
 
