@@ -1,8 +1,8 @@
-package kr.co.sist;
+package kr.co.sist.user.notice;
 
 import org.springframework.stereotype.Controller;
 
 @Controller
-public class FindPassController {
+public class NoticeController {
 
-}//class
+}

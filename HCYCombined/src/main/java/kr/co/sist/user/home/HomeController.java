@@ -1,4 +1,4 @@
-package kr.co.sist;
+package kr.co.sist.user.home;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -36,7 +36,7 @@ public class HomeController {
 		return "home";
 	}
 	public void HCYCombined() {
-		String str = "µÇ¾ú´Â°¡";
+		String str = "ï¿½Ç¾ï¿½ï¿½Â°ï¿½";
 	}
 	
 }

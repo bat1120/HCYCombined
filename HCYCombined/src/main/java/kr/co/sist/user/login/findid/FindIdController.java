@@ -1,8 +1,8 @@
-package kr.co.sist;
+package kr.co.sist.user.login.findid;
 
 import org.springframework.stereotype.Controller;
 
 @Controller
-public class HotelReservationController {
+public class FindIdController {
 
 }

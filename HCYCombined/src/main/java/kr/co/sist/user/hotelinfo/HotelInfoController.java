@@ -1,8 +1,8 @@
-package kr.co.sist;
+package kr.co.sist.user.hotelinfo;
 
 import org.springframework.stereotype.Controller;
 
 @Controller
-public class MainDiningController {
+public class HotelInfoController {
 
 }

@@ -1,8 +1,8 @@
-package kr.co.sist;
+package kr.co.sist.user.join;
 
 import org.springframework.stereotype.Controller;
 
 @Controller
-public class LoginController {
+public class JoinMemberController {
 
 }//class
