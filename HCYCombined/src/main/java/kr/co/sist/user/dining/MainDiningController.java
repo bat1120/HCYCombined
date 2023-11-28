@@ -1,8 +1,8 @@
-package kr.co.sist;
+package kr.co.sist.user.dining;
 
 import org.springframework.stereotype.Controller;
 
 @Controller
-public class FindIdController {
+public class MainDiningController {
 
 }

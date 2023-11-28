@@ -1,4 +1,4 @@
-package kr.co.sist;
+package kr.co.sist.user.login;
 
 import org.springframework.stereotype.Controller;
 

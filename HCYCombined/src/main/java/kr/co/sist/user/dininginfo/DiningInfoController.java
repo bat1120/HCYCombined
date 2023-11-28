@@ -1,4 +1,4 @@
-package kr.co.sist;
+package kr.co.sist.user.dininginfo;
 
 import org.springframework.stereotype.Controller;
 
