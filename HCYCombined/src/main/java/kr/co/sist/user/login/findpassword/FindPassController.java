@@ -1,4 +1,4 @@
-package kr.co.sist.user.login.findpw;
+package kr.co.sist.user.login.findpassword;
 
 import org.springframework.stereotype.Controller;
 
