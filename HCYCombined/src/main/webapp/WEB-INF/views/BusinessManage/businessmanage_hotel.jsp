@@ -39,15 +39,15 @@
     
 
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli:300,400,600,800,900">
+<link rel="stylesheet" href="https://fonts.googleapis.com?family=Muli:300,400,600,800,900">
 
-<link href="/docs/dist/base.css?1700528202" rel="stylesheet">
+<link href="base.css" rel="stylesheet">
 
 
 
 
   
-    <link rel="stylesheet" href="/docs/dist/demos.css?1700528202">
+    <link rel="stylesheet" href="demos.css">
   
 
   
@@ -62,7 +62,7 @@
   
 
   
-    <script type="text/javascript" src="/docs/dist/demos.js?1700528202"></script>
+    <script type="text/javascript" src="demos.js"></script>
   
 
 

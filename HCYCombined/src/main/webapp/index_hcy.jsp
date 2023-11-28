@@ -20,7 +20,7 @@
 </head>
 <body>
 <ul>
-<li><a href="businessMain.do">사업자 메인</a></li>
+<li><a href="BusinessManage/businessMain.do">사업자 메인</a></li>
 </ul>
 </body>
 </html>

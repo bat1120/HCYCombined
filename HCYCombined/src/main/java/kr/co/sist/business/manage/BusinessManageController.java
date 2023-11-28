@@ -13,7 +13,7 @@ public class BusinessManageController {
 	public String goBookingManage(HttpSession session, Model model) {
 		session.setAttribute("code", "»ç¾÷ÀÚ");
 		
-		return "BusinessManage/businessmanage_hotel.jsp";
+		return "BusinessManage/businessmanage_hotel";
 	}//goBookingManage
 	public String cancelBooking(HttpSession session,String hotelCode) {
 		return "";
