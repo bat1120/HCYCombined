@@ -8,6 +8,6 @@ public class AdminLoginController {
 		
 	@GetMapping("/admin/gologin.do")
 		public String goLogin() {
-			return "admin/form";
+			return "admin/login/signin";
 		}//goLogin
 }//class
